@@ -1,28 +1,56 @@
 # GESTÃO DE PROJETOS
 
+Disciplina que aborda a metodologia, técnicas e ferramentas para o gerenciamento de projetos. Estas técnicas e ferramentas são utilizadas para planejar, executar e controlar projetos de forma eficiente e eficaz. Envolvem a aplicação de processos para definir objetivos, escopo, prazos, recursos e orçamento de um projeto, bem como para gerenciar as expectativas das partes interessadas.
+
+Segundo Kerzner (2006), a gestão de projetos é "a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender aos requisitos do projeto". Ele destaca a importância de planejar, executar e controlar todas as fases de um projeto para atingir os objetivos estabelecidos.
+
+Para Wideman (1992), define a gestão de projetos como "a aplicação de métodos, técnicas, habilidades e conhecimentos das atividades do projeto a fim de atender aos requisitos do projeto", enfatizando a necessidade de equilibrar efetivamente as restrições de escopo, tempo, custo e qualidade, enquanto lida com a complexidade inerente aos projetos.
+
 ## PMBOK (corpo de conhecimento) - PMI
 
-Melhores práticas para um bom gerenciamento de PROJETOS
+De acordo com o PMBOK, um guia amplamente reconhecido em gerenciamento de projetos, a gestão de projetos é "a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto para atender aos seus requisitos".
+
+O PMBOK divide a gestão de projetos em 10 áreas de conhecimento e 5 grupos de processos. Resumindo, nas melhores práticas para um bom gerenciamento de PROJETOS.
 
 ### Áreas de gerenciamento
 
-1. integração;
-2. escopo;
-3. cronograma;
-4. custos;
-5. aquisições;
-6. qualidade;
-7. riscos;
-8. recursos;
-9. comunicações;
-10. partes interessadas;
+1. **Integração**: coordenação de todos os aspectos do projeto, garantindo que os processos individuais estejam alinhados e funcionem juntos de maneira eficaz;
+2. **Escopo**: definição e controle do que está e não está incluído no projeto, garantindo que todas as atividades e entregas estejam claramente definidas e controladas;
+3. **Cronograma**: desenvolvimento e controle do cronograma do projeto, incluindo a sequência das atividades e alocação de recursos temporais;
+4. **Custos**: estimativa, orçamento e controle de custos do projeto, garantindo que o projeto seja concluído dentro do orçamento;
+5. **Aquisições**: identificação, aquisição e gerenciamento de recursos, produtos ou serviços externos necessários para o projeto;
+6. **Qualidade**: planejamento e execução de atividades que garantam que os entregáveis e resultados do projeto atendam aos padrões de qualidade definidos;
+7. **Riscos**: identificação, avaliação, mitigação e controle de riscos, minimizando a probabilidade e o impacto de eventos negativos;
+8. **Recursos**: organização, liderança e gerenciamento de equipes de projeto, garantindo que os recursos humanos sejam usados ​​de maneira eficaz e eficiente;
+9. **Comunicações**: planejamento, distribuição e gerenciamento das informações e comunicações do projeto, garantindo que as partes interessadas recebam as informações necessárias;
+10. **Partes interessadas**: identificação e gerenciamento das partes interessadas envolvidas no projeto, com foco em suas necessidades, expectativas e influência no projeto;
 
 ### Grupos de processos
 
 Toda área de gerenciamento tem 5 grupos de processos
 
-1. iniciação;
-2. planejamento;
-3. execução;
-4. monitoramento e controle;
-5. encerramento;
+1. **Iniciação**: autorização do projeto ou fase, definindo seus objetivos e requisitos iniciais;
+2. **Planejamento**: definição e refinamento dos objetivos e planejamento das ações necessárias para alcançá-los;
+3. **Execução**: coordenação das pessoas e recursos para executar o plano de gerenciamento do projeto;
+4. **Monitoramento e controle**: acompanhamento, revisão e ajuste do progresso e do desempenho do projeto;
+5. **Encerramento**: formalização da aceitação do projeto ou fase e encerramento de todas as atividades, entregas, contratos e pagamentos.
+
+## Resumo Intuitivo
+
+| Componentes | Representação |
+| :-- | :-: |
+| **Integração** | ![Integração](https://3.bp.blogspot.com/-dk5IM40ioiE/TrwE6uEC1UI/AAAAAAAALq4/xLRV16bQEsA/s1600/quebra-cabeca.jpg) |
+| **Escopo** | ![Escopo](https://st.depositphotos.com/1561359/3865/v/600/depositphotos_38657063-stock-illustration-3d-person-watching-a-clipping.jpg) |
+| **Cronograma** | ![Cronograma](https://previews.123rf.com/images/nasirkhan/nasirkhan1303/nasirkhan130300008/18295123-3d-render-of-businessman-presenting-business-project-gantt-chart-3d-illustration-of-human-character.jpg) |
+| **Custos** | ![Custos](https://cdn.xxl.thumbs.canstockphoto.com.br/3d-olhar-objetos-dinheiro-personagem-relatado-banco-de-ilustra%C3%A7%C3%A3o_csp74369665.jpg) |
+| **Aquisições** | ![Aquisições](https://cdn.xxl.thumbs.canstockphoto.com.br/pequeno-3d-neg%C3%B3cio-pessoas-banco-de-ilustra%C3%A7%C3%B5es_csp11363472.jpg) |
+| **Qualidade** | ![Qualidade](https://www.mazag.com.br/wp-content/uploads/2016/03/ciclo-pdca.jpg) |
+| **Riscos** | ![Riscos](https://img.freepik.com/fotos-premium/3d-pessoas-homens-pessoa-sob-um-guarda-chuva-lideranca-e-equipe_441797-6152.jpg) |
+| **Recursos** | ![Recursos](https://img.freepik.com/fotos-gratis/boneca-de-pano-com-uma-lista-de-verificacao-e-outros-com-pasta_1156-228.jpg?w=360) |
+| **Comunicações** | ![Comunicações](https://3.bp.blogspot.com/-mop81bclyPg/VixaeBV-d0I/AAAAAAAAABU/Bj1f91ze-CY/s1600/descarga.jpg) |
+| **Partes interessadas** | ![Partes interessadas](https://faro.be/sites/default/files/styles/xlarge/public/u47/stakeholders.jpg?itok=bQnLjNgX) |
+| **Iniciação** | ![Iniciação](https://cdn.xxl.thumbs.canstockphoto.com.br/pessoas-projeto-pequeno-come%C3%A7ar-3d-banco-de-ilustra%C3%A7%C3%B5es_csp72311558.jpg) |
+| **Planejamento** | ![Planejamento](https://i.pinimg.com/originals/91/e6/2a/91e62a6ab93039d8f9449d651753bf4d.jpg) |
+| **Execução** | ![Execução](https://i.pinimg.com/736x/ae/41/e8/ae41e836229d11abe5e019cc57b748ad.jpg) |
+| **Monitoramento e controle** | ![Monitoramento e controle](https://st2.depositphotos.com/3643473/6206/i/950/depositphotos_62060081-stock-photo-3d-man-with-clipboard-and.jpg) |
+| **Encerramento** | ![Encerramento](https://w7.pngwing.com/pngs/483/482/png-transparent-animation-diploma-graduation-ceremony-graduation-text-team-public-relations.png) |
